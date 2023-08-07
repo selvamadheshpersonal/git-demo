@@ -16,4 +16,8 @@ public class GitDemoApplication {
 	public void feature() {
 		System.out.println("Feature");
 	}
+
+	public void feature2() {
+		System.out.println("Feature2");
+	}
 }
