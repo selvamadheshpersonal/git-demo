@@ -13,4 +13,11 @@ public class GitDemoApplication {
 	public void bugfix() {
 		System.out.println("Bugfix");
 	}
+	public void feature() {
+		System.out.println("Feature");
+	}
+
+	public void feature2() {
+		System.out.println("Feature2");
+	}
 }
